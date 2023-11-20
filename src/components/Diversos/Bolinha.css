@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    margin: 30px auto;
+  }
+  
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .line {
+    height: 2px;
+    width: 50px;
+    background-color: black;
+    margin: 0 10px; /* Ajuste a margem conforme necessário */
+  }
+  
